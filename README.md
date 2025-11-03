@@ -21,7 +21,7 @@ Each plan document follows this structure:
 ### Purpose
 
 The purpose of this documentation is to **evaluate**:
-- The **format** of the generated plans
+- The **format and quality** of the generated plans
 - The **quality** of the questions used to build personalized programs
 
 ### Program Flexibility
