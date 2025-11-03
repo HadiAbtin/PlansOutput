@@ -4,7 +4,7 @@ This repository contains documentation of 4 diet and exercise plans for muscle g
 
 ## Plans
 
-1. [Plan 1 - Nutrition & Workout Plan (Test 1)](./plans/plan-1.md) - ✅ Completed
+1. [Plan 1 - Nutrition & Workout Plan (Muscle Gain)](./plans/plan-1.md)
 2. [Plan 2 - Diet and Exercise Plan](./plans/plan-2.md)
 3. [Plan 3 - Diet and Exercise Plan](./plans/plan-3.md)
 4. [Plan 4 - Diet and Exercise Plan](./plans/plan-4.md)
