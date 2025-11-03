@@ -1,3 +1,47 @@
+# 🧾 Intake Q&A (Full Questionnaire)
+
+> Below are all the **questions and answers** that led to the generation of this personalized **nutrition** and **workout** plan.  
+> They are grouped into two categories:  
+> 1️⃣ **General questions** (basic info & preferences)  
+> 2️⃣ **Goal-specific questions** (domain-specific for workout & nutrition)
+
+---
+
+## 🧭 General Questions
+
+**Q1:** What are your personal details (gender, age, height, and weight)?  
+**A1:** Male, 28 years, 180 cm, 75 kg
+
+**Q2:** Do you have any medical conditions or take any medications?  
+**A2:** No medical conditions or medications
+
+**Q3:** What are your workout preferences (frequency, timing, duration, and available equipment)?  
+**A3:** 4 days/week, evening sessions, ~60 min, full gym access with weights and machines
+
+**Q4:** What are your nutrition preferences (diet type, restrictions, meals per day, budget)?  
+**A4:** Mediterranean diet, avoid dairy, 3–4 meals/day, medium budget
+
+---
+
+## 🎯 Goal-Specific Questions
+
+| # | Module | Question | Answer | Type |
+|---:|:---:|---|---|:---|
+| 1 | workout | Do you prefer compound exercises (e.g., squats, deadlifts) over isolation exercises (e.g., bicep curls)? | ✅ Yes | boolean |
+| 2 | workout | What intensity level do you prefer for your workouts? (1–10 scale) | 8 | integer |
+| 3 | workout | What is your preferred rest period between sets? (in seconds) | 90 | integer |
+| 4 | workout | Do you prefer to increase weights or repetitions for progression? | Increase weights | select |
+| 5 | workout | How often do you want to change your workout routine? (in weeks) | Every 6 weeks | integer |
+| 6 | workout | Do you want to include mobility or flexibility work in your routine? | ✅ Yes | boolean |
+| 7 | nutrition | What are your preferred sources of protein? (select all that apply) | Chicken, fish, beef, eggs | multiselect |
+| 8 | nutrition | Do you prefer to eat before your workouts? (yes/no) | ✅ Yes | boolean |
+| 9 | nutrition | How soon after workouts do you prefer to eat? (in minutes) | 45 minutes | integer |
+|10 | nutrition | How many liters of water do you drink daily? | 3 liters | number |
+|11 | nutrition | How many days per week can you dedicate to meal prep? | 4 days | integer |
+|12 | nutrition | What type of snacks do you prefer? (select all that apply) | Fruits, nuts, protein bars | multiselect |
+
+---
+
 # 🍽️ Nutrition Plan
 
 **Daily Targets:** 3300 kcal • Protein 150 g • Carbs 450 g • Fat 75 g
