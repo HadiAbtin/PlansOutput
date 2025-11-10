@@ -1964,7 +1964,7 @@ Rest days after Long Run and hardest quality; 1-2 rest days preferred.
 
 **Training summary**
 - Minutes (total / quality): **220 / 60**
-- Race week: **No**
+- Race week: **Yes**
 - Narrative: *Race week focused on preparation with a significant race day effort.*
 
 **Weekly targets**
