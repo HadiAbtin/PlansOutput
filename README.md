@@ -1,6 +1,6 @@
 # PlansOutput
 
-This repository contains documentation of 4 diet and exercise plans for different fitness goals.
+This repository contains documentation of 5 diet and exercise plans for different fitness goals.
 
 ## About This Documentation
 
@@ -41,6 +41,7 @@ The plans serve as a starting point and can be adjusted to better fit individual
 2. [Plan 2 - Nutrition & Workout Plan (Endurance)](./plans/plan-2.md)
 3. [Plan 3 - Nutrition & Workout Plan (Diabetes Management)](./plans/plan-3.md)
 4. [Plan 4 - Nutrition & Workout Plan (Endurance - Race Preparation)](./plans/plan-4.md)
+5. [Plan 5 - Nutrition & Workout Plan (Endurance - Race Preparation)](./plans/plan-5.md)
 
 ---
 
@@ -66,3 +67,8 @@ The plans serve as a starting point and can be adjusted to better fit individual
 - **Context:** This plan was created approximately 2 months before the user's race (Half Marathon on 2026-01-08)
 - **Nutrition:** 9-week nutrition plan with weekly targets ranging from 2250-2950 kcal/day, adjusted for training phases
 - **Workout:** 60-day program (9 weeks) with Endurance – running plan, including base building, build phase, deload, taper, and race week
+
+### Plan 5 Details
+- **Goal:** Endurance (Race Preparation)
+- **Nutrition:** 9-week nutrition plan with weekly targets ranging from 2800-3100 kcal/day, adjusted for training phases. Includes detailed hydration and fueling guidance for different workout types (long runs, tempo, VO2, strength, race, recovery).
+- **Workout:** 60-day program (9 weeks) with Endurance – running plan. Features detailed STEPS breakdown for each session (Warm up, Active, Cool Down). Includes base building, build phase with VO2 intervals and tempo work, taper, and race week (Half Marathon at target pace 4:45/km).
