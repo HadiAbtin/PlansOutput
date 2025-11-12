@@ -1,4 +1,4 @@
-# Plan - Nutrition & Workout Plan
+Plan - Nutrition & Workout Plan
 
 ## 🥗 Nutrition Plan
 
@@ -43,6 +43,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 300 | 177 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 2
 
 **Breakfast:**
@@ -68,6 +78,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 300 | 177 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 3
 
@@ -95,6 +115,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 300 | 177 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 4
 
 **Breakfast:**
@@ -120,6 +150,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 300 | 177 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 5
 
@@ -147,6 +187,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 300 | 177 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 6
 
 **Breakfast:**
@@ -173,6 +223,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 300 | 177 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 7
 
 **Breakfast:**
@@ -198,6 +258,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 300 | 177 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 **Hydration:** Aim ~3.4 L/day baseline. Add 0.4–0.8 L per training hour. Include 300–600 mg sodium per liter (up to 700–900 mg/L in heat). Use a 6–8% carb sports drink for sessions >60 min.
 
@@ -250,6 +320,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 300 | 135 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 2
 
 **Breakfast:**
@@ -275,6 +355,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 300 | 135 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 #### Day 3
 
@@ -302,6 +392,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 250 | 113 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 4
 
 **Breakfast:**
@@ -327,6 +427,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 #### Day 5
 
@@ -354,6 +464,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 300 | 135 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 6
 
 **Breakfast:**
@@ -380,6 +500,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 200 | 90 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 7
 
 **Breakfast:**
@@ -405,6 +535,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 300 | 135 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 **Hydration:** Aim ~3.6 L/day baseline. Add 0.5–0.9 L per training hour. Use 300–700 mg sodium/L, up to 1000 mg/L in heat; 6–8% carb solution during quality or long sessions.
 
@@ -457,6 +597,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 2
 
 **Breakfast:**
@@ -482,6 +632,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 #### Day 3
 
@@ -509,6 +669,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 4
 
 **Breakfast:**
@@ -534,6 +704,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 #### Day 5
 
@@ -561,6 +741,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 6
 
 **Breakfast:**
@@ -587,6 +777,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 7
 
 **Breakfast:**
@@ -612,6 +812,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 **Hydration:** Maintain ~3.6 L/day baseline. Preload 300–500 ml 30–45 min before hard sessions. During long/quality: 0.5–0.9 L/h with 30–60 g carbs and 300–700 mg sodium.
 
@@ -664,6 +874,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 2
 
 **Breakfast:**
@@ -689,6 +909,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 #### Day 3
 
@@ -716,6 +946,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 4
 
 **Breakfast:**
@@ -741,6 +981,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 #### Day 5
 
@@ -768,6 +1018,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 6
 
 **Breakfast:**
@@ -794,6 +1054,16 @@
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
 
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
+
 #### Day 7
 
 **Breakfast:**
@@ -819,6 +1089,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Beverage, sport drink, ready-to-drink | 350 | 158 |
+
+**FDC Query (for reference):**
+- Bagel, plain: `bagel plain`
+- Peanut butter, smooth, without salt: `peanut butter smooth unsalted`
+- Orange, raw: `orange raw`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, whole-wheat, cooked: `pasta whole wheat cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- White rice, cooked: `white rice cooked`
+- Beverage, sport drink, ready-to-drink: `sports drink ready to drink`
 
 **Hydration:** Keep ~3.6 L/day plus 0.5–0.9 L per training hour. Use 300–700 mg sodium/L; increase concentration slightly on very hot/humid days.
 
@@ -871,6 +1151,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 450 | 266 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 2
 
 **Breakfast:**
@@ -896,6 +1186,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 450 | 266 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 3
 
@@ -923,6 +1223,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 450 | 266 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 4
 
 **Breakfast:**
@@ -948,6 +1258,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 450 | 266 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 5
 
@@ -975,6 +1295,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 450 | 266 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 6
 
 **Breakfast:**
@@ -1001,6 +1331,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 450 | 266 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 7
 
 **Breakfast:**
@@ -1026,6 +1366,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 450 | 266 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 **Hydration:** Aim ~3.4 L/day baseline. Top up 300–500 ml 30–45 min pre-run; 0.4–0.8 L/h during; include electrolytes if sweat rate is high.
 
@@ -1078,6 +1428,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 350 | 207 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 2
 
 **Breakfast:**
@@ -1103,6 +1463,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 400 | 236 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 3
 
@@ -1130,6 +1500,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 350 | 207 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 4
 
 **Breakfast:**
@@ -1155,6 +1535,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 350 | 207 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 5
 
@@ -1182,6 +1572,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 300 | 177 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 6
 
 **Breakfast:**
@@ -1208,6 +1608,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 350 | 207 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 7
 
 **Breakfast:**
@@ -1233,6 +1643,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 350 | 207 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 **Hydration:** 3.4 L/day baseline; increase intake around sessions and include electrolytes (300–600 mg sodium/L).
 
@@ -1285,6 +1705,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 2
 
 **Breakfast:**
@@ -1310,6 +1740,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 3
 
@@ -1337,6 +1777,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 4
 
 **Breakfast:**
@@ -1362,6 +1812,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 5
 
@@ -1389,6 +1849,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 6
 
 **Breakfast:**
@@ -1415,6 +1885,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 7
 
 **Breakfast:**
@@ -1440,6 +1920,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 **Hydration:** 3.4 L/day baseline; on VO2/long days use 0.5–0.8 L/h with 300–600 mg sodium/L; adjust for heat/humidity.
 
@@ -1492,6 +1982,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 2
 
 **Breakfast:**
@@ -1517,6 +2017,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 3
 
@@ -1544,6 +2054,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 4
 
 **Breakfast:**
@@ -1569,6 +2089,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 #### Day 5
 
@@ -1596,6 +2126,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 6
 
 **Breakfast:**
@@ -1622,6 +2162,16 @@
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
 
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+
 #### Day 7
 
 **Breakfast:**
@@ -1647,6 +2197,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Greek yogurt, plain, nonfat | 200 | 118 |
+
+**FDC Query (for reference):**
+- Oats, rolled: `oats rolled old fashioned`
+- Milk, low-fat, 1%: `milk 1% low fat`
+- Banana, raw: `banana raw`
+- Chicken breast, roasted: `chicken breast roasted`
+- Brown rice, cooked: `brown rice cooked`
+- Salmon, Atlantic, cooked, dry heat: `salmon Atlantic cooked dry heat`
+- Sweet potato, baked, without salt: `sweet potato baked`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
 
 **Hydration:** 3.4 L/day baseline. During quality sessions, target 0.5–0.8 L/h with 300–600 mg sodium/L; sip fluids with meals.
 
@@ -1699,6 +2259,16 @@
 |------|-----------|------|
 | Apple, raw, with skin | 200 | 104 |
 
+**FDC Query (for reference):**
+- Oatmeal, instant, prepared with water: `oatmeal instant prepared water`
+- Blueberries, raw: `blueberries raw`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+- Tuna, light, canned in water, drained: `tuna light canned in water drained`
+- Brown rice, cooked: `brown rice cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- Quinoa, cooked: `quinoa cooked`
+- Apple, raw, with skin: `apple raw with skin`
+
 #### Day 2
 
 **Breakfast:**
@@ -1724,6 +2294,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Apple, raw, with skin | 200 | 104 |
+
+**FDC Query (for reference):**
+- Oatmeal, instant, prepared with water: `oatmeal instant prepared water`
+- Blueberries, raw: `blueberries raw`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+- Tuna, light, canned in water, drained: `tuna light canned in water drained`
+- Brown rice, cooked: `brown rice cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- Quinoa, cooked: `quinoa cooked`
+- Apple, raw, with skin: `apple raw with skin`
 
 #### Day 3
 
@@ -1751,6 +2331,16 @@
 |------|-----------|------|
 | Apple, raw, with skin | 200 | 104 |
 
+**FDC Query (for reference):**
+- Oatmeal, instant, prepared with water: `oatmeal instant prepared water`
+- Blueberries, raw: `blueberries raw`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+- Tuna, light, canned in water, drained: `tuna light canned in water drained`
+- Brown rice, cooked: `brown rice cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- Quinoa, cooked: `quinoa cooked`
+- Apple, raw, with skin: `apple raw with skin`
+
 #### Day 4
 
 **Breakfast:**
@@ -1776,6 +2366,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Apple, raw, with skin | 200 | 104 |
+
+**FDC Query (for reference):**
+- Oatmeal, instant, prepared with water: `oatmeal instant prepared water`
+- Blueberries, raw: `blueberries raw`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+- Tuna, light, canned in water, drained: `tuna light canned in water drained`
+- Brown rice, cooked: `brown rice cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- Quinoa, cooked: `quinoa cooked`
+- Apple, raw, with skin: `apple raw with skin`
 
 #### Day 5
 
@@ -1803,6 +2403,16 @@
 |------|-----------|------|
 | Apple, raw, with skin | 200 | 104 |
 
+**FDC Query (for reference):**
+- Oatmeal, instant, prepared with water: `oatmeal instant prepared water`
+- Blueberries, raw: `blueberries raw`
+- Greek yogurt, plain, nonfat: `greek yogurt nonfat plain`
+- Tuna, light, canned in water, drained: `tuna light canned in water drained`
+- Brown rice, cooked: `brown rice cooked`
+- Chicken breast, roasted: `chicken breast roasted`
+- Quinoa, cooked: `quinoa cooked`
+- Apple, raw, with skin: `apple raw with skin`
+
 #### Day 6
 
 **Breakfast:**
@@ -1828,6 +2438,16 @@
 | Food | Amount (g) | kcal |
 |------|-----------|------|
 | Banana, raw | 200 | 178 |
+
+**FDC Query (for reference):**
+- White bread, toasted: `white bread toasted`
+- Eggs, scrambled: `eggs scrambled`
+- Jam, strawberry: `strawberry jam`
+- White rice, cooked: `white rice cooked`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, enriched, cooked: `pasta enriched cooked`
+- Marinara sauce, ready-to-serve: `marinara sauce ready to serve`
+- Banana, raw: `banana raw`
 
 #### Day 7
 
@@ -1855,6 +2475,16 @@
 |------|-----------|------|
 | Banana, raw | 220 | 196 |
 
+**FDC Query (for reference):**
+- White bread, toasted: `white bread toasted`
+- Eggs, scrambled: `eggs scrambled`
+- Jam, strawberry: `strawberry jam`
+- White rice, cooked: `white rice cooked`
+- Turkey breast, deli meat, oven roasted: `turkey breast deli oven roasted`
+- Pasta, enriched, cooked: `pasta enriched cooked`
+- Marinara sauce, ready-to-serve: `marinara sauce ready to serve`
+- Banana, raw: `banana raw`
+
 **Hydration:** Taper week: ~3.3 L/day. Two days pre-race emphasize electrolytes; avoid overdrinking. Race-eve: sip 300–500 ml with dinner and again on waking.
 
 **Fueling Guidance:**
@@ -1881,7 +2511,6 @@
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -1891,7 +2520,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -1901,7 +2529,6 @@ STEPS
 **Intensity:** N/A
 
 **STEPS:**
-STEPS
 1. Warm up — 5' | Zone 1
 2. Active — 20' focusing on 2 main lifts | Strength
 3. Cool Down — 5' | Zone 1
@@ -1917,7 +2544,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -1927,7 +2553,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 55' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -1937,7 +2562,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -1952,7 +2576,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -1962,7 +2585,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -1972,7 +2594,6 @@ STEPS
 **Intensity:** N/A
 
 **STEPS:**
-STEPS
 1. Warm up — 5' | Zone 1
 2. Active — 20' focusing on 2 main lifts | Strength
 3. Cool Down — 5' | Zone 1
@@ -1988,7 +2609,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -1998,7 +2618,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 60' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2008,7 +2627,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2023,7 +2641,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2033,7 +2650,6 @@ STEPS
 **Intensity:** 5×4' @ 169-182 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 5×4' @ vVO2 | 95-100% | 2' EZ
 3. Cool Down — 10' @ Z1 | Zone 1
@@ -2043,7 +2659,6 @@ STEPS
 **Intensity:** N/A
 
 **STEPS:**
-STEPS
 1. Warm up — 5' | Zone 1
 2. Active — 20' focusing on 2 main lifts | Strength
 3. Cool Down — 5' | Zone 1
@@ -2059,7 +2674,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2069,7 +2683,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 60' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2079,7 +2692,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2094,7 +2706,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2104,7 +2715,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2114,7 +2724,6 @@ STEPS
 **Intensity:** N/A
 
 **STEPS:**
-STEPS
 1. Warm up — 5' | Zone 1
 2. Active — 20' focusing on 2 main lifts | Strength
 3. Cool Down — 5' | Zone 1
@@ -2130,7 +2739,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2140,7 +2748,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 60' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2150,7 +2757,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2165,7 +2771,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2175,7 +2780,6 @@ STEPS
 **Intensity:** 3×10' @ 162-168 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 3×10' @ LT | 4:46/km | 2' EZ
 3. Cool Down — 10' @ Z1 | Zone 1
@@ -2185,7 +2789,6 @@ STEPS
 **Intensity:** N/A
 
 **STEPS:**
-STEPS
 1. Warm up — 5' | Zone 1
 2. Active — 20' focusing on 2 main lifts | Strength
 3. Cool Down — 5' | Zone 1
@@ -2201,7 +2804,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2211,7 +2813,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 60' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2221,7 +2822,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2236,7 +2836,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2246,7 +2845,6 @@ STEPS
 **Intensity:** 5×4' @ 169-182 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 5×4' @ vVO2 | 95-100% | 2' EZ
 3. Cool Down — 10' @ Z1 | Zone 1
@@ -2256,7 +2854,6 @@ STEPS
 **Intensity:** N/A
 
 **STEPS:**
-STEPS
 1. Warm up — 5' | Zone 1
 2. Active — 20' focusing on 2 main lifts | Strength
 3. Cool Down — 5' | Zone 1
@@ -2272,7 +2869,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2282,7 +2878,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 60' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2292,7 +2887,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2307,7 +2901,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2317,7 +2910,6 @@ STEPS
 **Intensity:** 3×10' @ 162-168 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 3×10' @ LT | 4:46/km | 2' EZ
 3. Cool Down — 10' @ Z1 | Zone 1
@@ -2327,7 +2919,6 @@ STEPS
 **Intensity:** N/A
 
 **STEPS:**
-STEPS
 1. Warm up — 5' | Zone 1
 2. Active — 20' focusing on 2 main lifts | Strength
 3. Cool Down — 5' | Zone 1
@@ -2343,7 +2934,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2353,7 +2943,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 60' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2363,7 +2952,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2378,7 +2966,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2388,7 +2975,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2398,7 +2984,6 @@ STEPS
 **Intensity:** N/A
 
 **STEPS:**
-STEPS
 1. Warm up — 5' | Zone 1
 2. Active — 20' focusing on 2 main lifts | Strength
 3. Cool Down — 5' | Zone 1
@@ -2414,7 +2999,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 40' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2424,7 +3008,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — 50' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2434,7 +3017,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 10' @ Z1 | Zone 1
 2. Active — 30' @ Z1 | Zone 1
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2449,7 +3031,6 @@ STEPS
 **Intensity:** Z2 HR 132-147 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 5' @ Z1 | Zone 1
 2. Active — 15' @ Z2 | Zone 2
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2459,7 +3040,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 5' @ Z1 | Zone 1
 2. Active — 5' @ Z1 | Zone 1
 3. Cool Down — 10' @ Z1 | Zone 1
@@ -2469,7 +3049,6 @@ STEPS
 **Intensity:** 2×8' @ 162-168 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 5' @ Z1 | Zone 1
 2. Active — 2×8' @ LT | 4:46/km | 2' EZ
 3. Cool Down — 5' @ Z1 | Zone 1
@@ -2479,7 +3058,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 5' @ Z1 | Zone 1
 2. Active — 5' @ Z1 | Zone 1
 3. Cool Down — 10' @ Z1 | Zone 1
@@ -2489,7 +3067,6 @@ STEPS
 **Intensity:** Half Marathon @ target pace
 
 **STEPS:**
-STEPS
 1. Warm up — 15' @ Z1 | Zone 1
 2. Active — Race Day | Plan pace: 4:45/km | Hydration as needed
 3. Cool Down — 10' @ Z1 | Zone 1
@@ -2499,7 +3076,6 @@ STEPS
 **Intensity:** Z1 HR 113-132 bpm
 
 **STEPS:**
-STEPS
 1. Warm up — 5' @ Z1 | Zone 1
 2. Active — 5' @ Z1 | Zone 1
 3. Cool Down — 10' @ Z1 | Zone 1
