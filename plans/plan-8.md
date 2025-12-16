@@ -35,7 +35,7 @@
 
 ### Race Information
 - **Distance**: Marathon
-- **Date**: September 15, 2024
+- **Date**: March 20, 2026
 - **Performance Goal**: Complete my first marathon in under 4 hours and finish strong
 
 ### Training Modality & Terrain
